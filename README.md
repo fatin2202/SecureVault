@@ -19,5 +19,15 @@ Secure Vault is a Python-based application used to securely store passwords and 
 2. Double-click `secure-vault.exe`.
 3. Use the application to store and manage passwords securely.
 
+## Future Enhancement
+-password Generator
+-Password Strength
+-Dark Mode
+-Cloud Backup
+-Two-Factor Authentication
+## Author
+Fatin
+
+
 ## Author
 FATIN UNAISA
